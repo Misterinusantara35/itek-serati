@@ -857,14 +857,13 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5066/default_ott.mpd
 #EXTINF:-1 tvg-id="822.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/beIN_SPORTS3_V2.png" group-title="⚽ SPORTS FHD",beIN Sports 3
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2705/default_ott.mpd
 
-
 #EXTINF:-1 tvg-id="SPOTV FHD" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://get.perfecttv.net/logo/spotvfhd.png", SPOTV FHD
 #EXTVLCOPT:http-user-agent=IPTVPROPlayer
-https://ktpremium.shop/live/FAQRUKHAIRI/01155094696/26318.ts
+http://cool365.xyz:900/live/4160189881/DB4ACD54/13132.ts
 
 #EXTINF:-1 tvg-id="SPOTV 2 FHD" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://get.perfecttv.net/logo/spotv2fhd.png", SPOTV 2 FHD
 #EXTVLCOPT:http-user-agent=IPTVPROPlayer
-https://ktpremium.shop/live/FAQRUKHAIRI/01155094696/73957.ts
+http://cool365.xyz:900/live/4160189881/DB4ACD54/13131.ts
 
 #EXTINF:-1 tvg-id="BEIN SPORTS 1 FRANCE FHD" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://get.perfecttv.net/logo/bein1fhd.png", BEIN SPORTS 1 FRANCE FHD
 #EXTVLCOPT:http-user-agent=IPTVPROPlayer
