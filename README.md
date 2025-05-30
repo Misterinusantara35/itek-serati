@@ -731,11 +731,9 @@ http://cool365.xyz:900/live/4160189881/DB4ACD54/185822.ts|user-agent=IPTVPROPlay
 #EXTVLCOPT:http-user-agent=IPTVPROPlayer
 http://cool365.xyz:900/live/4160189881/DB4ACD54/401550644.ts
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=62a7b7917aad5123cd4df65c561c7010:b1effa9e51cf38b3ae676bc264937efb
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; TMRV075G Build/UKQ1.230924.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/132.0.6834.163 Mobile Safari/537.36
 #EXTINF:-1 tvg-id="AstroArenaBola2" ch-number="804" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroArenaBola2_2024.png" group-title="⚽ SPORTS FHD",804 Astro Arena Bola 2
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5100/default_ott.mpd
+#EXTVLCOPT:http-user-agent=IPTVPROPlayer
+http://cool365.xyz:900/live/4160189881/DB4ACD54/401550643.ts
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5be66a6f88efee3d6e30f72a9c58e310:168f3fadfc730ba3dfc932f7c430e27d
