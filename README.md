@@ -121,6 +121,12 @@ https://1938ecee77d844ba8727487421f36e44.mediatailor.ap-southeast-1.amazonaws.co
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0
 https://df14pcdp16s98.cloudfront.net/v1/dash/951fbca46ac9b52422f8e3d6d4d6dab33623c3cc/FASTOO_CH7_CERIA/dash.mpd?username=vip_3klp0es8&password=wg3piwEs&aws.sessionId=653a17be-4813-4757-8724-ae68ab7a34b7
 
+#EXTINF:-1 tvg-id="RTB Sukmaindera" ch-number="" tvg-name="AWESOME TV" group-title="MALAYSIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Awesome_TV_Malaysia.png", AWESOME TV
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=60f202b16407fedd8e369c32af57dd10:c8475231c09dc1b639886976b6fc7575
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2708.ts
+
 #EXTINF:-1 group-logo="" group-title="MALAYSIA" tvg-id="" tvg-logo="https://perfecttv.net/logo/dramahebat.png" ,127 Drama Hebat
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0
 https://df14pcdp16s98.cloudfront.net/v1/dash/951fbca46ac9b52422f8e3d6d4d6dab33623c3cc/FASTOO_CH1_DRAMAHEBAT/dash.mpd?username=vip_3klp0es8&password=wg3piwEs&aws.sessionId=449fab5e-19fb-4843-9cc5-8209e03a725d
