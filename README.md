@@ -152,6 +152,12 @@ https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist_b1120000_sleng.m3u8
 
+#======INDONESIA======
+
+#EXTINF:-1 tvg-id="ANTV" tvg-name="" group-title="INDONESIA" tvg-logo="https://get.perfecttv.net/logo/bein2fhd.png", BEIN SPORTS 2 FRANCE FHD
+#EXTVLCOPT:http-user-agent=IPTVPROPlayer
+http://tv.kudigital.pw:8080/Utkdev/Utkdev/12
+
 #=====chinese======
 
 #EXTINF:-1 group-logo="" group-title="CHINESE" tvg-logo="https://get.perfecttv.net/logo/aec.png" tvg-id="AstroAEC",124 AEC
