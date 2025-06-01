@@ -3,7 +3,6 @@
 
 =======MALAYSIA======
 
-
 #EXTINF:-1 tvg-id="tv1" tvg-name="TV1 HD" group-title="MALAYSIA" group-logo="" tvg-logo="https://get.perfecttv.net/logo/tv1.png", 101 TV1
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -152,6 +151,13 @@ https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=60f202b16407fedd8e369c32af57dd10:c8475231c09dc1b639886976b6fc7575
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist_b1120000_sleng.m3u8
+
+
+#======INDONESIA======
+
+#EXTINF:-1 tvg-id="ANTV" tvg-name="" group-title="INDONESIA" tvg-logo="https://upload.wikimedia.org/wikipedia/id/archive/f/fd/20101206233144%21Antv_logo%282009%29.png", ANTV
+#EXTVLCOPT:http-user-agent=IPTVPROPlayer
+http://tv.kudigital.pw:8080/Utkdev/Utkdev/12
 
 #=====chinese======
 
