@@ -179,6 +179,14 @@ http://tv.kudigital.pw:8080/Utkdev/Utkdev/2666
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 http://tv.kudigital.pw:8080/Utkdev/Utkdev/11
 
+#EXTINF:-1 tvg-id="MMC TV" tvg-name="" group-title="INDONESIA" tvg-logo="https://go.erabaru.my.id/live/mnctv.png", MMC TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6f06f3b3cf7cbad0cc8b21e2c94dfb10:525510cfa634bd630af8c95fa93576ca
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+http://tv.kudigital.pw:8080/Utkdev/Utkdev/29
+
 #=====chinese======
 
 #EXTINF:-1 group-logo="" group-title="CHINESE" tvg-logo="https://get.perfecttv.net/logo/aec.png" tvg-id="AstroAEC",124 AEC
