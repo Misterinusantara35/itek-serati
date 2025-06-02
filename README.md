@@ -982,3 +982,8 @@ https://nijineh-lalajo.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcm
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/tbs-usa.png",TBS USA FHD
 https://nijineh-lalajo.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zMzYvbW9uby5tM3U4.m3u8
+
+#EXTINF:-1 tvg-id="FUBO SPORTS NETWORK FHD" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/98/Fubo_Sports_Network.png/revision/latest?cb=20250117231918", FUBO SPORTS NETWORK FHD
+#EXTVLCOPT:http-user-agent=IPTVPROPlayer
+http://zkbvzkj.megahdtv.xyz:900/live/1103581436/4099381829/473384.ts
+
