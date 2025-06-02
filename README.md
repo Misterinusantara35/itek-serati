@@ -77,7 +77,7 @@ https://get.perfecttv.net/dash.mpd?username=vip_3klp0es8&password=wg3piwEs&chann
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a9c619074ed38c20e25ad36c3c57c10c:056e1e49573d2caee5cb4fe78f8c4f3d
-http://6792825.lbss12.xyz/hls/7c9aacb4ec687e2f6ac6687b757fc158/29654_1342.ts
+http://exm3u.extraott.com/live/1103581436/4099381829/29654.m3u8
 
 #EXTINF:-1 group-logo="https://is.gd/prima.png" group-title="MALAYSIA" tvg-id="105.astro" tvg-logo="https://get.perfecttv.net/logo/ria.png" ,119 Ria
 #EXTVLCOPT:http-user-agent=IPTVPROPlayer
