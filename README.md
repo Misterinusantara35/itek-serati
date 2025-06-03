@@ -199,7 +199,7 @@ http://tv.kudigital.pw:8080/Utkdev/Utkdev/29
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d8fe398c79065173fa9788f226056510:45e77e6a8ba767b63cacfdb01ef2ac29
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
-https://rcti-linier.rctiplus.id/hdntl=exp=1748945015~acl=%2F*~data=hdntl~hmac=55383238415bd34e9a919297c00a9ab3cc8b18813f8fc9248e32cb35fcab6b38/rcti-sdi-avc1_600000=9-mp4a_96000=1.m3u8
+http://extraott-iptv.com:88/live/0229477349/8104258135/400200742.m3u8
 
 #EXTINF:-1 tvg-id="TRANS 7" tvg-name="" group-title="INDONESIA" tvg-logo="https://go.erabaru.my.id/live/trans7.png", TRANS 7
 #KODIPROP:inputstreamaddon=inputstream.adaptive
