@@ -196,11 +196,9 @@ http://tv.kudigital.pw:8080/Utkdev/Utkdev/11
 http://tv.kudigital.pw:8080/Utkdev/Utkdev/29
 
 #EXTINF:-1 tvg-id="RCTI" tvg-name="" group-title="INDONESIA" tvg-logo="https://go.erabaru.my.id/live/rcti.png", RCTI
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6f06f3b3cf7cbad0cc8b21e2c94dfb10:525510cfa634bd630af8c95fa93576ca
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key=d8fe398c79065173fa9788f226056510:45e77e6a8ba767b63cacfdb01ef2ac29
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
 https://rcti-linier.rctiplus.id/hdntl=exp=1748945015~acl=%2F*~data=hdntl~hmac=55383238415bd34e9a919297c00a9ab3cc8b18813f8fc9248e32cb35fcab6b38/rcti-sdi-avc1_800000=7-mp4a_96000=1.m3u8?hdnts=exp=1748927015~hmac=3f94b4ffe5eb9c37c4121b5cbb0fde24f976848e4d466f3b04fb79a007fee1be
 
 #EXTINF:-1 tvg-id="TRANS 7" tvg-name="" group-title="INDONESIA" tvg-logo="https://go.erabaru.my.id/live/trans7.png", TRANS 7
