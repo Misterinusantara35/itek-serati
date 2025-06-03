@@ -615,6 +615,12 @@ https://get.perfecttv.net/dash.mpd?username=vip_3klp0es8&password=wg3piwEs&chann
 #KODIPROP:inputstream.adaptive.license_key=c24a7811d9ab46b48b746a0e7e269210:c321afe1689b07d5b7e55bd025c483ce
 http://cool365.xyz:900/live/4160189881/DB4ACD54/268273.ts
 
+#EXTINF:-1 group-logo="" group-title="KNOWLEDGE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Natgeologo.svg", National Geographic
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=92d34a84fae8e54de0a829629941be10:2fb39ab3f55333d5fa3e830ebf99ec16
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
+http://gotit14.xyz/live/2F635BX/ZJX02CY/71433.ts
+
 #=====kids=========
 
 #EXTINF:-1 group-logo="" group-title="KIDS" tvg-id="611.astro" tvg-logo="https://get.perfecttv.net/logo/ceria.png" group-logo="" ,205 Ceria
