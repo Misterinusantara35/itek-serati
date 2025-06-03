@@ -196,9 +196,7 @@ http://tv.kudigital.pw:8080/Utkdev/Utkdev/11
 http://tv.kudigital.pw:8080/Utkdev/Utkdev/29
 
 #EXTINF:-1 tvg-id="RCTI" tvg-name="" group-title="INDONESIA" tvg-logo="https://go.erabaru.my.id/live/rcti.png", RCTI
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=d8fe398c79065173fa9788f226056510:45e77e6a8ba767b63cacfdb01ef2ac29
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=IPTVPROPlayer
 http://extraott-iptv.com:88/live/0229477349/8104258135/400200742.m3u8
 
 #EXTINF:-1 tvg-id="TRANS 7" tvg-name="" group-title="INDONESIA" tvg-logo="https://go.erabaru.my.id/live/trans7.png", TRANS 7
