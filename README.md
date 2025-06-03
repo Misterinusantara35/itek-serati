@@ -615,7 +615,7 @@ https://get.perfecttv.net/dash.mpd?username=vip_3klp0es8&password=wg3piwEs&chann
 #KODIPROP:inputstream.adaptive.license_key=c24a7811d9ab46b48b746a0e7e269210:c321afe1689b07d5b7e55bd025c483ce
 http://cool365.xyz:900/live/4160189881/DB4ACD54/268273.ts
 
-#EXTINF:-1 group-logo="" group-title="KNOWLEDGE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Natgeologo.svg", National Geographic
+#EXTINF:-1 group-logo="" group-title="KNOWLEDGE" tvg-logo="https://eu-central.storage.cloudconvert.com/tasks/6c773a95-dc75-46c8-8ee7-984786dc5310/Natgeologo.svg.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=cloudconvert-production%2F20250603%2Ffra%2Fs3%2Faws4_request&X-Amz-Date=20250603T083603Z&X-Amz-Expires=86400&X-Amz-Signature=0c12b5d39a35715aef0b5dda8ee405d397fcf93562cb5dcf27b896497d2eb600&X-Amz-SignedHeaders=host&response-content-disposition=inline%3B%20filename%3D%22Natgeologo.svg.png%22&response-content-type=image%2Fpng&x-id=GetObject", National Geographic
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=92d34a84fae8e54de0a829629941be10:2fb39ab3f55333d5fa3e830ebf99ec16
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
