@@ -667,6 +667,12 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/509/default_ott.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5093/default_ott.mpd
 
+#EXTINF:-1 group-logo="" group-title="KIDS" tvg-id="" tvg-logo="https://eu-central.storage.cloudconvert.com/tasks/2d436d5f-d9d8-4573-a633-225a08da38a2/Animax_logo.svg.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=cloudconvert-production%2F20250603%2Ffra%2Fs3%2Faws4_request&X-Amz-Date=20250603T090326Z&X-Amz-Expires=86400&X-Amz-Signature=45c7caa90d4784857b4b601a94b13a07985e5bb125235729b1bb841338d0940e&X-Amz-SignedHeaders=host&response-content-disposition=inline%3B%20filename%3D%22Animax_logo.svg.png%22&response-content-type=image%2Fpng&x-id=GetObject", Animax   
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=50c699c444e5f80dacafc4c99667d810:de6c5feaae5f6963b4b392ddc8b6a778
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+http://exm3u.extraott.com/live/ZUL96376/UG4VTW4E/45057.m3u8
+
 #====news====
 
 #EXTINF:-1 tvg-id="601.unifi" ch-number="601" tvg-name="BBC News" tvg-logo="https://get.perfecttv.net/logo/bbcnews.png" group-title="NEWS",601 BBC Newsᶠʰᵈ
